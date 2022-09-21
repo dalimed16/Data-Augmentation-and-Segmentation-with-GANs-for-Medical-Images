@@ -1,0 +1,2 @@
+# Data-Augmentation-and-Segmentation-with-GANs-for-Medical-Images
+Generating randomized brain MRI images from random noise using a GAN. Additionally translating from one image domain to another with a conditional GAN (pix2pix): Segmenting brain anatomy - Generating brain MRI from the segmentation - Augmenting the translation of image modalities in a limited dataset to perform ischemic stroke segmentation.
